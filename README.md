@@ -183,9 +183,9 @@ Emergency -> Panic/Fire -> Open All Gates -> Sound Alarm
 - Breadboard and jumper wires
 
 ---
-## Schamatic Diagram:
+## Kit With all Connections:
 
-<img width="1408" height="768" alt="WhatsApp Image 2026-07-06 at 6 51 42 PM" src="https://github.com/user-attachments/assets/6759e8dc-f117-4426-a667-40b37940b358" />
+ <img width="1053" height="1160" alt="WhatsApp Image 2026-07-06 at 7 06 15 PM" src="https://github.com/user-attachments/assets/ed169b87-f044-4044-8a7b-b48da765f568" />
 
 ---
 
@@ -247,6 +247,9 @@ cd ESP32-Smart-Queue-System
 ```
 ---
 ### Step 2: Hardware Assembly 
+### Schamatic Diagram:
+
+<img width="1408" height="768" alt="WhatsApp Image 2026-07-06 at 6 51 42 PM" src="https://github.com/user-attachments/assets/6759e8dc-f117-4426-a667-40b37940b358" />
 
 **Connect components according to the wiring diagram:**
 
@@ -363,6 +366,13 @@ QUEUE MANAGEMENT FLOW
 | **Overcrowding** | Stage 3 lockdown -> Close entry gates -> Continuous buzzer |
 | **VIP Request** | Temporary gate opening (3 seconds) |
 
+---
+## Responce
+
+ <img width="1160" height="1053" alt="WhatsApp Image 2026-07-06 at 7 06 14 PM" src="https://github.com/user-attachments/assets/b9e84fd3-810d-49c8-b00d-60ec183ef3bd" />
+
+
+---
 ## 🌐 Web Dashboard
 
 Here's a live preview of the Q-Line Crowd Control Dashboard:
