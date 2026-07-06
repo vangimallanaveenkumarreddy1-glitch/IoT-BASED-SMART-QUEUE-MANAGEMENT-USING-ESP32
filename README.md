@@ -183,6 +183,11 @@ Emergency -> Panic/Fire -> Open All Gates -> Sound Alarm
 - Breadboard and jumper wires
 
 ---
+## Schamatic Diagram:
+
+<img width="1408" height="768" alt="WhatsApp Image 2026-07-06 at 6 51 42 PM" src="https://github.com/user-attachments/assets/6759e8dc-f117-4426-a667-40b37940b358" />
+
+---
 
 ## 💻 Software Requirements
 
